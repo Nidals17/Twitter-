@@ -6,7 +6,6 @@ programming projet APE
 ## Plan
 
  -  *PRESENTATION*
- -  *PRISE EN MAIN*
  -  *CONDITION D'UTILISATION*
  -  *DEVELOPPEMENT*
 
@@ -17,14 +16,10 @@ Dans le cadre du projet de python programming, nous avons travaillé sur un prog
 Pour ce faire nous avons utiliser le module tweepy de python qui permet de d’obtenir les tweets via un login qu’on obtient sur twitter developper, ensuite nous avons developper des fonctions qui nettoient les tweets obtenus en utlisant notamment la librairie « re ». Après le nettoyage nous appliquons quelques filtres pour obtenir les common word que nous affichons à l’aide de Matplotlib. Après, nous continuons notre exploitation avec les wordcloud et les words networks. Et pour finir nous avons developper à l’aide du module « tkinter » un interface où l’utilisateur tape un « hashtag » qui permet l’automatisation de tout le processus
 
 -------------------------------
-## PRISE EN MAIN
-
-Pour naviguer dans cette application, veuillez tapez le mot dont vous voulez en savoir plus.
-
--------------------------------
 
 ## CONDITIONS D'UTILISATION
-- Avoir un compte twitter développeur
+
+Pour faire fonctionner le programme il faut tout d’abord créer un compte developpeur chez twitter, ce qui vous permettra d’obtenir un login que vous aller utiliser dans le fichier « twitterplot » en remplissant les champs vides (api_key,..). Ensuite il faut installer toutes les modules qui font fonctionner le programme si ce n’est pas déjà fait et c’est tout comme prérequis
 
 -------------------------------
 ## DEVELOPPEMENT
