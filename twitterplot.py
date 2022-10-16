@@ -10,11 +10,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import networkx as nx
 from worddcloud import *
-api_key='BsfEyxNBosacOlK6nVSPjgRvb'
-api_key_secret='dnWWRCvXWOBgn9mIJ4mYqWkUJuOF6qohYywXoC3mQDIxU7oymw'
+api_key=''
+api_key_secret=''
 
-access_token='1570331539925254144-kEUd0aTclz9SvgaDhSIv65ZOizOtqF'
-access_token_secret='fLQHkx58CZFvjsqcDDTWI9G8AvcdOpHw9pWL3qK447B7Y'
+access_token=''
+access_token_secret=''
 
 auth = tweepy.OAuthHandler(api_key, api_key_secret)
 auth.set_access_token(access_token, access_token_secret)
