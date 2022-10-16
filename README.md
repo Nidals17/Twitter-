@@ -22,7 +22,7 @@ Pour naviguer dans cette application, veuillez tapez le mot dont vous voulez en 
 -------------------------------
 
 ## CONDITIONS D'UTILISATION
-- *Avoir un compte twitter développeur*
+- Avoir un compte twitter développeur
 
 -------------------------------
 ## DEVELOPPEMENT
