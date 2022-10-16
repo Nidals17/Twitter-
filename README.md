@@ -18,6 +18,7 @@ Pour ce faire nous avons utiliser le module tweepy de python qui permet de d’o
 ## PRISE EN MAIN
 
 Pour naviguer dans cette application, veuillez tapez le mot dont vous voulez en savoir plus.
+
 -------------------------------
 
 ## CONDITIONS D'UTILISATION
