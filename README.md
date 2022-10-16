@@ -5,7 +5,7 @@ programming projet APE
 -------------------------------
 ## Plan
 
- -  *Présentation*
+ -  *PRESENTATION*
  -  *PRISE EN MAIN*
  -  *CONDITION D'UTILISATION*
  -  *DEVELOPPEMENT*
