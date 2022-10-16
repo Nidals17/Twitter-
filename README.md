@@ -1,4 +1,4 @@
-# Twitter
+# Twitter Word Cloud
 
 programming projet APE
 
@@ -29,4 +29,7 @@ Cette application résulte de la collaboration entre Koubikani Loubota Jacques V
  - matplotplib.pyplot
  - pandas 
  - tkinter 
+ - networkx
+ - nltk
+ - json
 -------------------------------
